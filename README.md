@@ -1,5 +1,5 @@
 
-<h1 align="center">Tech for a Greener Tomorrow | <strong>Hackathon for Sustainable Solution</strong>
+<h1 align="center">Tech for a Greener Tomorrow <br> 🍃♻️🏞️💚🌱 Hackathon for Sustainable Solution 🌱💚🏞️♻️🍃
 
 </h1>
 
